@@ -1,0 +1,2 @@
+# reg_lond_pop
+Just a few different approaches to using non-linear regression to analyze the London population (based only on time). So far only utilizes a quadratic regression using the SciPy curve_fit tool, as well as also training a separate quadratic model using NumPy's polyfit. The data seems to follow a parabolic pattern though other options will certainly be explored. Just a simple example of regression that I wrote while becoming familiar with the various machine learning tools for python.
